@@ -1,2 +1,0 @@
-Isocitrate lyase (FASTA ID = P0A9G6) contains its active site (PROSITE ID = PS00161) starting from 189th
-position: lasvKKCGHMggkv ”
